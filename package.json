@@ -1,0 +1,22 @@
+{
+  "name": "020-cursodeasincronismo-js",
+  "version": "1.0.0",
+  "description": "Este es mi repo para el desarrollo de mi primer curso de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan33pro/CursoDeAsincronismo-JS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "DanielCG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dan33pro/CursoDeAsincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/dan33pro/CursoDeAsincronismo-JS#readme"
+}
