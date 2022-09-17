@@ -34,7 +34,7 @@ setTimeout( grettin, 2000, 'Daniel');
 
 [========]
 
-# XMLHttpRequest
+## XMLHttpRequest
 
 Es un objeto de JS que permite hacer peticiones
 hacia servicios en la nube(URLs o APIs).
