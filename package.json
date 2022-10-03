@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node src/01-callback/challenge.js",
-    "deploy": "gh-pages -d src/05-async-landing"
+    "deploy": "gh-pages -d src/05-async-landing/index.html"
   },
   "repository": {
     "type": "git",
